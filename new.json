@@ -1,0 +1,10 @@
+{
+    "name": {   "firstName": "Alexander",
+                "lastName": "Mikhaylov"     },
+    "age": 30,
+    "pets": {   "cats": 0,
+                "dogs": 0   },
+    "desiredSalary": "1000$"
+}
+
+
